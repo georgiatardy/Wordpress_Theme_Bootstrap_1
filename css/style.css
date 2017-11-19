@@ -168,3 +168,27 @@ h6,
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+/*
+Custom Styles*/
+
+.showcase{
+  height: 600px;
+  padding: 100px, 20px;
+  text-align: center;
+  border-bottom: #ccc 1px solid;
+  margin-bottom: 30px;
+  color: white;
+  background: url('../img/showcase.jpg') no repeat center center;
+}
+
+.showcase h1{
+  font-size: 55px;
+  padding-bottom: 20px;
+  color: #fff;
+}
+
+.showcase p{
+  font-size: 20px;
+  margin-bottom: 50px;
+}
