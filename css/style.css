@@ -175,8 +175,8 @@ h6,
   text-align: center;
   border-bottom: #ccc 1px solid;
   margin-bottom: 30px;
-  /*color: white;*/
-  background: url('../img/showcase.jpg') no repeat center center;
+  color: #fff;
+  background: url('../img/showcase.jpg') no-repeat center center;
 }
 
 .showcase h1{
